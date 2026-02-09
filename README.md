@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Horse 1](https://lxst-is.pussy.support/5ry3fl3qyml9okjsb7.jpeg)]
-[![Horse 2](https://lxst-is.pussy.support/33vmvt3pg4i7kxs7oq.jpeg)]
-[![Horse 3](https://lxst-is.pussy.support/7d7yamyexvj9y9udv0.jpeg)]
-[]: # [![Horse ]()]
+![Horse 1](https://lxst-is.pussy.support/5ry3fl3qyml9okjsb7.jpeg)
+![Horse 2](https://lxst-is.pussy.support/33vmvt3pg4i7kxs7oq.jpeg)
+![Horse 3](https://lxst-is.pussy.support/7d7yamyexvj9y9udv0.jpeg)
+<!-- [![Horse ]()] --> 
