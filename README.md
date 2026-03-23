@@ -1,5 +1,4 @@
-## Hi there 👋
-
+# hello
 <!--
 **ulmished/ulmished** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- 
 <img width="1218" height="1542" alt="image" src="https://github.com/user-attachments/assets/45ee05b3-2f23-45c7-8808-6424a04278bf" />
 <img width="1218" height="1310" alt="image" src="https://github.com/user-attachments/assets/16c1fec0-8439-4480-bd20-4b6584ea3226" />
 <img width="1218" height="1612" alt="image" src="https://github.com/user-attachments/assets/0549a09b-f072-4bdb-b5d6-44dd50afc323" />
+-->
